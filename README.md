@@ -5,6 +5,7 @@
 </p>
 
 [![Latest Version](https://img.shields.io/badge/dev-v0.1.2-yellow.svg?maxAge=2592000)](https://packagist.org/packages/swoft/swoft)
+[![Build Status](https://travis-ci.org/swoft-cloud/framework.svg?branch=master)](https://travis-ci.org/swoft-cloud/framework)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.0-brightgreen.svg?maxAge=2592000)](https://packagist.org/packages/swoft/swoft)
 [![Swoole Version](https://img.shields.io/badge/swoole-%3E=2.0.9-brightgreen.svg?maxAge=2592000)](https://packagist.org/packages/swoft/swoft)
 [![Hiredis Version](https://img.shields.io/badge/hiredis-%3E=0.1-brightgreen.svg?maxAge=2592000)](https://packagist.org/packages/swoft/swoft)
@@ -34,14 +35,6 @@
 - RPC、Redis、HTTP、Mysql 协程和同步阻塞客户端无缝切换
 - Inotify 自动 Reload
 - 强大的日志系统
-
-# 系统架构
-
-<p align="center">
-    <a href="https://github.com/stelin/swoft" target="_blank">
-        <img src="https://github.com/swoft-cloud/swoft-doc/blob/master/assets/images/architecture.png" alt="swoft" />
-    </a>
-</p>
 
 # 文档
 [**中文文档**](https://doc.swoft.org)
